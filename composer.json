@@ -1,0 +1,21 @@
+{
+    "name": "onepoint/after-school",
+    "description": "Hiyou after school club registration system.",
+    "type": "library",
+    "require": {
+        "laravel/framework": "^6.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Qun",
+            "email": "qun@onepoint.com.tw"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Onepoint\\AfterSchool\\": "src"
+        }
+    },
+    "minimum-stability": "dev"
+}
